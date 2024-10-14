@@ -7,7 +7,9 @@ Welcome to the SimpleProjects repository! This repository contains a collection 
 Here are some of the projects included in this repository:
 
 1. Calculator
-   ![Alt text] (calci.png)
+ 
+![Calculator Image](calci.png)
+
 
 
  
